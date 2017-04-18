@@ -1,0 +1,32 @@
+body{
+   text-align: center;
+   font-family: 'Roboto Mono', monospace;
+   color: #444;
+   background-color: skyblue;
+}
+#calculator{
+   margin-top:10px;
+   border: 1em solid lightgray;
+   border-radius: 3%;
+   background-color: lightgray;
+}
+.form-control{
+   font-family: 'Press Start 2P', cursive;
+   margin-top:1%;
+   margin-bottom:.5em;
+   text-align: right;
+   font-size: 24px;
+   height: 2em;
+}
+.btn{
+   padding:6%;
+   border: 5px solid lightgray;
+   border-radius: 10px;
+   font-size: 20px;
+}
+.clear{
+   background-color: gray;
+}
+.operator{
+   background-color: orange;
+}
